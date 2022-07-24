@@ -9,7 +9,7 @@ module.exports = {
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.js
     siteTitle: `Hi, I'm Nicole`,
     siteTitleAlt: `Nicole`,
-    siteHeadline: `Hi, I'm Nicole`,
+    siteHeadline: `Nicole`,
     siteUrl: `https://hellonicole.gatsbyjs.io`,
     siteDescription: `Writings about writing.`,
     siteLanguage: `en`,
