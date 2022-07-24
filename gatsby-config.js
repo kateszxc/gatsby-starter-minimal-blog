@@ -37,7 +37,7 @@ module.exports = {
             url: `https://twitter.com/HelloNicole01`,
           },
           {
-            name: `Newsletted`,
+            name: `Newsletter`,
             url: `https://thewritingsmith.beehiiv.com`,
           },
         ],
